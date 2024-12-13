@@ -1,6 +1,6 @@
 Smart Safety Gear Detection
 
-This project is designed to enhance workplace safety by detecting whether individuals are wearing helmets using YOLO (You Only Look Once) object detection. By identifying non-compliance in real time, it aims to reduce workplace accidents and enforce safety protocols effectively.
+This project is designed to enhance workplace safety by detecting whether individuals are wearing safety gear using YOLO (You Only Look Once) object detection. By identifying non-compliance in real time, it aims to reduce workplace accidents and enforce safety protocols effectively by alerting the employers about missing gear.
 
 -- Dataset
 The dataset used for this project is sourced from Kaggle:
